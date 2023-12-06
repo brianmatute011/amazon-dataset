@@ -13,4 +13,4 @@ For each product the following information is available:
     Detailed product categorization
     Product reviews: time, customer, rating, number of votes, number of people that found the review helpful
 
-[Amazon product co-purchasing network metadata](https://snap.stanford.edu/data/amazon-meta.html)    
+### [Amazon product co-purchasing network metadata](https://snap.stanford.edu/data/amazon-meta.html)    
